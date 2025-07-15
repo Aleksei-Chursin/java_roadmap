@@ -1,39 +1,39 @@
-# Путь к Middle Java-разработчику за 4–6 месяцев
+# Path to Middle Java Developer in 4–6 Months
 ## Version 1.1.1
 
-**Занятость:** 15–20 часов в неделю  
+**Workload:** 15–20 hours per week  
 [ROADMAP LINK](https://whimsical.com/java-roadmap-v-1-1-J7eVWqZoJABUvBCqqTc672)  
-![JAVA _ROADMAP_v_1_1.png](/static/JAVA_ROADMAP_v_1_1.png)
+![JAVA _ROADMAP_v_1_1.png](/static/JAVA_ROADMAP_v.1.1.png)
  ---
 
-## Содержание
-- [Roadmap: Путь к Middle Java-разработчику за 4–6 месяцев](#roadmap-путь-к-middle-java-разработчику-за-46-месяцев)
-  - [Содержание](#содержание)
-  - [Введение](#введение)
-  - [Как читать роудмап](#как-читать-роудмап)
-  - [Месяц 1: Tools](#месяц-1-tools)
-  - [Месяц 1: Core](#месяц-1-core)
-  - [Месяц 2: Advanced](#месяц-2-advanced)
-  - [Месяц 3: Database](#месяц-3-database)
-  - [Месяц 4: Enterprise](#месяц-4-enterprise)
-  - [Месяц 4: CI/CD](#месяц-4-cicd)
-  - [Месяц 5-6: Cloud, микросервисы и Job Interview](#месяц-5-6-cloud-микросервисы-и-job-interview)
-  - [Заключение](#заключение)
-  - [Контакты:](#контакты)
+## Contents
+- [Roadmap: Path to Middle Java Developer in 4–6 Months](#roadmap-path-to-middle-java-developer-in-4-6-months)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+  - [How to Read the Roadmap](#how-to-read-the-roadmap)
+  - [Month 1: Tools](#month-1-tools)
+  - [Month 1: Core](#month-1-core)
+  - [Month 2: Advanced](#month-2-advanced)
+  - [Month 3: Database](#month-3-database)
+  - [Month 4: Enterprise](#month-4-enterprise)
+  - [Month 4: CI/CD](#month-4-cicd)
+  - [Month 5-6: Cloud, Microservices and Job Interview](#month-5-6-cloud-microservices-and-job-interview)
+  - [Conclusion](#conclusion)
+  - [Contacts:](#contacts)
 
-*(Если времени меньше четырёх месяцев, некоторые блоки можно учить параллельно.)*
+*(If you have less than four months, some blocks can be studied in parallel.)*
  
 ---
 
-## Введение
-Данный роудмап показывает путь от базового Java-разработчика к уровню **Middle**, включая релевантный стек самых популярных на данный момент технологий для работы в большинстве современных компаний. Роудмап рассчитан как на полных новичков, так и на тех, кто уже имеет базовые знания в Java. В том числе — на разработчиков, которые в данный момент испытывают сложности с поиском работы. Разделы начиная с Enterprice помогут освоить необходимые харды по стеку с микросервисами. Раздел Карьерного трека — получить необходимые софты и отточить навык прохождения интервью. Карьерный трек можно начинать паралельно с изучением уровня Enterprice. По роудмапу планируются обновления как в части самой карты, так и описания блоков с сылками.
+## Introduction
+This roadmap shows the path from a basic Java developer to the **Middle** level, including a relevant stack of the most popular technologies currently used in most modern companies. The roadmap is designed for complete beginners as well as those who already have basic knowledge of Java. It also targets developers who are currently struggling to find a job. The sections starting from Enterprise will help you master the necessary hard skills for the microservices stack. The Career Track section will help you gain the necessary soft skills and hone your interview skills. You can start the Career Track in parallel with studying the Enterprise level. Updates to the roadmap are planned, both for the map itself and for the descriptions of blocks with links.
 
-## Как читать роудмап
-На схеме представлены блоки, которые нужно изучить. В каждом блоке — задания, которые нужно выполнить. Пунктирными линиями обозначены темы, которые можно изучать только теоретически, не практикуя их.  
-Цифрами обозначены как рекомендуемый порядок, так и затраты в месяцах, начиная с первого блока.  
-Ссылки на материалы для изучения, примеры домашних заданий представлены в каждом блоке. Все материалы на момент публикации бесплатные. Большинство материалов доступно на английском языке. Если есть сложности с английским, можно использовать браузер со встроенным переводчиком, а также AI в качестве помощника для разжёвывания материала.
+## How to Read the Roadmap
+The diagram shows the blocks you need to study. Each block contains tasks to complete. Dashed lines indicate topics that can be studied theoretically, without practicing them.  
+Numbers indicate both the recommended order and the time spent in months, starting from the first block.  
+Links to study materials and examples of homework assignments are provided in each block. All materials are free at the time of publication. Most materials are available in English. If you have difficulty with English, you can use a browser with a built-in translator, as well as AI as an assistant to help you understand the material.
 
-**Схема включает**:
+**The diagram includes**:
 
 - **Infrastructure Base**: IDE, Git, Build Tools, AI, Agile/Scrum основы
 - **Core**: базовый синтаксис, коллекции, ввод-вывод, исключения, TDD, Checkstyle
