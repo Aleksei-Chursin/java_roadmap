@@ -3,7 +3,7 @@
 
 **Workload:** 15–20 hours per week  
 [ROADMAP LINK](https://whimsical.com/java-roadmap-v-1-1-J7eVWqZoJABUvBCqqTc672)  
-![JAVA _ROADMAP_v_1_1.png](static/JAVA  ROADMAP v.1.1.png)
+![JAVA _ROADMAP_v_1_1.png](static/JAVA_ROADMAP_v.1.1.png)
  ---
 
 ## Contents
